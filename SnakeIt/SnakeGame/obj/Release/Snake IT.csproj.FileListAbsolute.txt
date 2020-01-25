@@ -1,0 +1,17 @@
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\SnakeIt.exe.config
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\SnakeIt.exe
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\bin\Release\SnakeIt.pdb
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\MainWindow.baml
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\MainWindow.g.cs
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\App.g.cs
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt_Content.g.cs
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt_MarkupCompile.cache
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt.g.resources
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt.Properties.Resources.resources
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\Snake IT.csproj.GenerateResource.cache
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\Snake IT.csproj.CoreCompileInputs.cache
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt.exe
+C:\Users\Waldek\Desktop\SnakeITShakeIT\SnakeIt\SnakeGame\obj\Release\SnakeIt.pdb
